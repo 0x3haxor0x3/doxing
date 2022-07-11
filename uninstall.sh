@@ -6,5 +6,5 @@ if [[ $(id -u) -ne 0 ]] ; then
 	sudo bash ${0}
 	exit
 fi
-rm /usr/bin/aliens_eye &>/dev/null
+rm /usr/bin/doxing &>/dev/null
 printf "\nuninstalled successfully!\n"

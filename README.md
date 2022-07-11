@@ -44,6 +44,6 @@ doxing
 ### then enter the username
 
 ## Enjoy!
-<p><img aling="center"src="https://raw.githubusercontent.com/0x3haxor0x3/doxing/main/sample1.png"/></p>
+<p><img aling="center"src="https://github.com/0x3haxor0x3/doxing/blob/main/sample1.png"/></p>
 <br>
-<p><img aling="center"src="https://raw.githubusercontent.com/0x3haxor0x3/doxing/main/sample2.png"/></p>
+<p><img aling="center"src="https://github.com/0x3haxor0x3/doxing/blob/main/sample2.png"/></p>

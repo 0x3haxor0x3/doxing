@@ -18,7 +18,7 @@ do
 	sleep 1
 done
 printf "\n\n" 
-rm /usr/bin/aliens_eye &>/dev/null
-cp aliens_eye.py /usr/bin/aliens_eye
-chmod +x /usr/bin/aliens_eye
+rm /usr/bin/doxing &>/dev/null
+cp dox.py /usr/bin/doxing
+chmod +x /usr/bin/doxing
 printf "\n\ninstalled successfully!"
